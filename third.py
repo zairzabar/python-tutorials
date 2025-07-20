@@ -8,3 +8,5 @@ if word in str:
     print("The word is in the string.")
 else:
     print("The word is not in the string.")
+
+print("New change")
